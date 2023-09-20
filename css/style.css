@@ -243,7 +243,12 @@
   align-items: center;
   border-radius: 100%;
   background: #118da8;
-  padding: 20px;
+  padding: 40px 20px;
+  margin-left: 2%;
+}
+
+.jacob__arrow-link{
+  line-height: 15px;
 }
 
 .jacob__left {
